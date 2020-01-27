@@ -1,0 +1,60 @@
+body {
+	background-image: url('..images/11.png');
+	background-size: 100% 100%;
+	font-size: 14px;
+}
+.alert {
+	padding: 10px;
+}
+.informasi {
+	margin-bottom: 25px;
+	font-size: 14px;
+}
+.login {
+	background-color: white;
+}
+footer {
+	background-image: url('..images/bgpattern.png');
+	border-top: 5px solid green;
+	margin-top: 20px;
+	margin-bottom: 0;
+	background-color: black;
+	padding: 20px;
+	color: white;
+}
+.header-content{
+	border-bottom: 5px solid green;
+}
+.jumbotron {
+	background-image: url('../images/bgpattern.png');
+	color: white;
+	padding: 25px 0px 20px 0px;
+}
+.kecil {
+	color: grey;
+	font-size: 10px;
+}
+.judul {
+	font-family: agency FB;
+	font-size: 20px;
+	font-weight: bold;
+}
+.login {
+	border: 1px solid #cccccc;
+	border-radius: 5px;
+	padding: 20px;
+}
+.logo {
+	padding: 0;
+	margin: 0;
+}
+.navbar {
+	border-radius: 0;
+}
+.navbar-brand {
+	font-family: Agency FB;
+	font-size: 24px;
+}
+.b-panduan {
+	margin-top: 200px;
+}
